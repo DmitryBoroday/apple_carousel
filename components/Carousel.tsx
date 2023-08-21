@@ -29,7 +29,7 @@ function Carousel() {
                 ease: [0.32, 0.72, 0 , 1]
           }}
         >
-        <div className='relative w-full max-w-[1400px] flex items-center'>
+        <div className='relative w-full max-w-[14apple00px] flex items-center'>
                 <AnimatePresence>
         {isFocuse && (
                     <motion.div
